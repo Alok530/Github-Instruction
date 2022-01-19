@@ -20,3 +20,9 @@ a. git status
 b. git add .
 c. git commit -m "comments"
 d. git push origin master
+
+4. How to make pull request
+
+a. open Repository on gitgub and click on pull request
+b. open vs code terminal and write :- git pull 
+c. 
