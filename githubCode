@@ -1,0 +1,22 @@
+1. How to clone a Repository.
+
+a. Make a folder for clone
+b. Open terminal and type git clone linkOfRepositry then enter
+c. Link:- go to project section click on green code button then copy SSH link 
+
+
+2. How to upload project.
+
+a. Initialise git by git init
+b. git status
+c. add all files by = git add .
+d. Commit by :- git commit -m "comment" 
+e. git remote add origin repositoryLink
+f. git push origin master
+
+3. How to commit changes
+
+a. git status
+b. git add .
+c. git commit -m "comments"
+d. git push origin master
