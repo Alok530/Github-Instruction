@@ -15,7 +15,6 @@ e. git remote add origin repositoryLink
 f. git push origin master
 
 3. How to commit changes
-
 a. git status
 b. git add .
 c. git commit -m "comments"
