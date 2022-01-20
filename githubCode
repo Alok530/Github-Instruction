@@ -20,3 +20,9 @@ a. git status
 b. git add .
 c. git commit -m "comments"
 d. git push origin master
+
+4. How to check curr bacnch 
+ans:- git bacnch
+
+5. How to switch bacnch
+ans:-  git checkout BranchName
